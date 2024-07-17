@@ -2,5 +2,6 @@
 *log
 install.lock
 runtime/
+.idea
 
 
